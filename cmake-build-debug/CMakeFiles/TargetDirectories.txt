@@ -1,0 +1,3 @@
+/home/ant0kneeguy/CLionProjects/BuildyBot/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ant0kneeguy/CLionProjects/BuildyBot/cmake-build-debug/CMakeFiles/BuildyBot.dir
+/home/ant0kneeguy/CLionProjects/BuildyBot/cmake-build-debug/CMakeFiles/edit_cache.dir
